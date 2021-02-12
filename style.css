@@ -7,6 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.footer{
+    color: #333333!important;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -123,7 +127,6 @@ a:hover {
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
 .d-bloc a .icon-sm,
-.d-bloc a .icon-md,
 .d-bloc a .icon-lg,
 .d-bloc a .icon-xl,
 .d-bloc h1 a,
@@ -653,7 +656,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #333333!important;
 }
 
 .container {
@@ -679,7 +682,7 @@ a {
 }
 
 p {
-    font-size: 15px;
+    font-size: 17px;
 }
 
 .tight-width-whitespace {
@@ -773,7 +776,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #FFB38F;
 }
 
 .tc-white {
@@ -781,7 +784,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #FFB38F;
     color:#333333!important;
 }
 
@@ -799,7 +802,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #FFB38F!important;
 }
 
 .ltc-atomic-tangerine:hover {
