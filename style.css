@@ -7,11 +7,6 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.btn:focus,
-a:focus,
-button:focus {
-    border: 4px solid #000000;
-}
 
 .footer{
     color: #333333!important;
@@ -20,7 +15,7 @@ button:focus {
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none!important;
+    /* outline: none!important; */
 }
 
 a:hover {
@@ -472,7 +467,7 @@ nav .caret {
 }
 
 button {
-    outline: none!important;
+    /* outline: none!important; */
 }
 
 .btn-rd {
